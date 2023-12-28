@@ -20,7 +20,7 @@ Due to my diverse interests spanning various domains, I have successfully comple
    
    a) Mathematics for Machine Learning: Linear Algebra
    
-      Certificate:
+      -Certificate:
 
        https://coursera.org/share/f700fffaffafb5394d6822b480fb2b43
    
