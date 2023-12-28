@@ -12,7 +12,19 @@ Oh, and did I mention my fascination with ethical hacking 🕵️‍♂️? It's
 
 So, join me on this adventurous journey through the captivating world of computer science, where each line of code is like a puzzle piece in an epic quest! 🚀 Let's bring our tech dreams to life, one semicolon at a time! 💻
 
+# Courses:
 
+Due to my diverse interests spanning various domains, I have successfully completed courses in a select few:
+1) Mathematics for Machine Learning
+   *Mathematics for Machine Learning: Linear Algebra
+      -Certificate: https://coursera.org/share/f700fffaffafb5394d6822b480fb2b43
+3) Google Data Analytics Professional Certificate
+   *Foundations: Data, Data, Everywhere
+      -Certificate: https://coursera.org/share/b614de236af8d9197555ebbcb03a2f43
+   *Ask Questions to Make Data-Driven Decisions
+      -Certificate: https://coursera.org/share/400cf34a0ae5f1e41ada7fac0663baae
+   *Prepare Data for Exploration
+      -Certificate: https://coursera.org/share/d4042e1989a430a44fda9d93acfbbb83
 
 # Contact:
 
